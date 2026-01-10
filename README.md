@@ -26,9 +26,13 @@ A guest arrives and the photographer explains
 > I can send you your pictures instantly. Just go here (website), take a picture of your face and give us your WhatsApp number.
 > Then we'll use facial recognition to instantly send any photo with your face in it to your WhatsApp number.
 
+The instant that a photo is taken by the photographer, that photo is automatically run through facial recognition and is sent to people with matching faces.
+
 #### All Photos Enabled
 
 The host requests that all photos be instantly shared with anyone who gives their WhatsApp number.
+
+The instant that a photo is taken by the photographer, that photo is automatically sent to the host and whomever else gave their WhatsApp number.
 
 ### Monetization
 
