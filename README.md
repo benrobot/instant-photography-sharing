@@ -53,3 +53,7 @@ This needs more research but could be a new app installed that has the ability t
 ## Security Considerations
 
 ### Can someone register to get pictures for someone else's face?
+
+## Alpha Release
+
+The first iteration will be as simple as possible and aimed towards my own personal use. For my own personal photos I use an Android phone and Google Photos (may or may not use Google Photos APIs, but worth knowing). Also, since I will be the only user this version can be less concerned with best practices such as messaging queues and more concerned with quick and easy testing.
