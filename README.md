@@ -42,6 +42,14 @@ The idea is that we can use the guest information to send them advertisements or
 #### Paid When Guest Information Is Private
 To keep guest information private then using the service will incur some cost to the photographer. The photographer is free to pass the cost on to the host or build it into their fee.
 
+## Photo Uploads By Photographer
+
+### Professional Camera (DSLR)
+One way to get these pictures automatically could be using a wifi enabled SD card and having a computer on the same wifi running an application that is uploading the pictures as they are taken
+
+### Mobile Device
+This needs more research but could be a new app installed that has the ability to see and upload newly taken pictures. Another option would be to connect directly to a service that is already automatically uploading photos like Google Photos or iCloud.
+
 ## Security Considerations
 
 ### Can someone register to get pictures for someone else's face?
