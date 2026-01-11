@@ -15,6 +15,7 @@ import os
 import sqlite3
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import (
     Application,
@@ -23,6 +24,9 @@ from telegram.ext import (
     filters,
     ContextTypes,
 )
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
